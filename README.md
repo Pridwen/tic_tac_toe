@@ -1,10 +1,7 @@
 # tic_tac_toe
 
 Project with Flutter so I don't take that Prolog test YEP
-Interface:
-      SS from PC:
 ![MoreText](https://github.com/Pridwen/tic_tac_toe/blob/master/SS%20PC.png?raw=true)
-      SS from Phone:
 ![Text](https://github.com/Pridwen/tic_tac_toe/blob/master/SS%20Phone.png?raw=true)
 This project is a starting point for a Flutter application.
 
