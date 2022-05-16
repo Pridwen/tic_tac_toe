@@ -3,9 +3,9 @@
 Project with Flutter so I don't take that Prolog test YEP
 Interface:
       SS from PC:
-![alt text](https://github.com/Pridwentic_tac_toe/edit/master/SS PC.png?raw=true)
+![MoreText](https://github.com/Pridwen/tic_tac_toe/blob/master/SS%20PC.png?raw=true)
       SS from Phone:
-![alt text](https://github.com/Pridwentic_tac_toe/edit/master/SS Phone.png?raw=true)
+![Text](https://github.com/Pridwen/tic_tac_toe/blob/master/SS%20Phone.png?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
