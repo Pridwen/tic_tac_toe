@@ -1,9 +1,11 @@
 # tic_tac_toe
 
-A new Flutter project.
-
-## Getting Started
-
+Project with Flutter so I don't take that Prolog test YEP
+Interface:
+      SS from PC:
+![alt text](https://github.com/Pridwentic_tac_toe/edit/master/SS PC.png?raw=true)
+      SS from Phone:
+![alt text](https://github.com/Pridwentic_tac_toe/edit/master/SS Phone.png?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
